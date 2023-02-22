@@ -39,7 +39,6 @@ function validateEmail() {
         // email.focus()
     } else{
         email.classList.remove('is-invalid')
-        
     }
 }
 
